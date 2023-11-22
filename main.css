@@ -106,7 +106,10 @@ figcaption
 }
 #newest
 {
-	background-color: #191d21;
+	background-image: url(img/bridge.jpg) ;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
 }
 .entry 
 {
