@@ -107,9 +107,9 @@ figcaption
 #newest
 {
 	background-image: url(img/bridge.jpg) ;
-	background-repeat: no repeat;
+	background-repeat: no-repeat;
 	background-attachment: fixed;
-	bakcground-size:cover;
+	background-size:cover;
 	
 }
 .entry 
